@@ -9,7 +9,7 @@ async def on_ready():
 	print('Бот онлайн!')
 
 @Bot.command(pass_context = True)
-async def hello():
-	print('Бот онлайн!')
+async def hello(ctx):
+	await Bot.say("Hello!!!")
 
-Bot.run("NTcxMzUzNDI3NzI1MjU0NjU3.XVGymg.GUTX95hrxDfOMRDDa1Un9NLKCUw")
+Bot.run("NTcxMzUzNDI3NzI1MjU0NjU3.XVG6Og.SiWVC6dAVe2n6D5SJt0h_fEkTv4")
