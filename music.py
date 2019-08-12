@@ -12,4 +12,4 @@ async def on_ready():
 async def hello(ctx):
 	await Bot.say("Hello!!!")
 
-Bot.run("NjEwNTYyMjk2NjQ0ODk0NzIz.XVHIQA.h6hbS6mVsCdnJdf1YF7uRSVEHaA")
+Bot.run("NjEwNTYyMjk2NjQ0ODk0NzIz.XVHKCA.sABfX0Nz-NYXDoxQd-Q3OsKRN5A")
